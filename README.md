@@ -1,5 +1,5 @@
 
-##  Introduction
+##  Introduction.
 
 This is my first assingnment I got in the web-app course.
 
