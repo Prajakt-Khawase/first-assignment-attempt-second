@@ -1,4 +1,3 @@
-# first-assignment
 
 ##  Introduction
 
