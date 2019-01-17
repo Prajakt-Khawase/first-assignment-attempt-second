@@ -24,6 +24,6 @@ This is my first assingnment I got in the web-app course.
  
 ## About
  
- Prajakt Khawse
+ Prajakt Uttamrao Khawase
  
  S534570@nwmissouri.edu
